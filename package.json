@@ -1,0 +1,16 @@
+{
+  "name": "mc-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot + AFK Minecraft Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "@discordjs/rest": "^2.3.0",
+    "discord-api-types": "^0.37.83",
+    "node-fetch": "^2.7.0",
+    "mineflayer": "^4.20.1"
+  }
+}
